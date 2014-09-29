@@ -15,5 +15,4 @@
 /tmp
 .idea/
 .idea/*.xml
-Gemfile.lock
 
