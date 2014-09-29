@@ -1,2 +1,1 @@
-This is advanced rails
-----------------------
+This is advanced rails.
